@@ -2,3 +2,5 @@ apiVersion: capsule.clastix.io/v1beta2
 kind: Tenant
 metadata:
   name: cicd
+  labels:
+    platform.nguiland.org/ssh-credentials: "true"
