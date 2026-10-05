@@ -3,4 +3,5 @@ kind: Tenant
 metadata:
   name: cicd
   labels:
+    platform.nguiland.org/build-trigger: "true"
     platform.nguiland.org/ssh-credentials: "true"
