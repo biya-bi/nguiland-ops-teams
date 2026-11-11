@@ -1,0 +1,7 @@
+apiVersion: capsule.clastix.io/v1beta2
+kind: Tenant
+metadata:
+  name: ostock
+  labels:
+    platform.nguiland.org/build-trigger: "true"
+    platform.nguiland.org/ssh-credentials: "true"
