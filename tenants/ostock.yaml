@@ -4,4 +4,5 @@ metadata:
   name: ostock
   labels:
     platform.nguiland.org/build-trigger: "true"
+    platform.nguiland.org/sops-age: "true"
     platform.nguiland.org/ssh-credentials: "true"
