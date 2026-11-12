@@ -4,5 +4,6 @@ metadata:
   name: cicd
   labels:
     platform.nguiland.org/build-trigger: "true"
+    platform.nguiland.org/env-settings: "true"
     platform.nguiland.org/maven-settings: "true"
     platform.nguiland.org/ssh-credentials: "true"
